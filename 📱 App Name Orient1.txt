@@ -1,0 +1,34 @@
+📱 App Name: Orient1
+Short Description (80 characters max)
+
+Navigate your campus with AR, maps, and interactive guides.
+
+Full Description
+
+Orient1 is an Android application designed to assist students, faculty, and visitors in navigating university campuses. Utilizing Augmented Reality (AR) technology, the app provides an interactive and immersive experience to locate buildings, classrooms, and other facilities.
+
+Key Features:
+
+AR Navigation: Overlay campus maps and directions onto the real world for intuitive navigation.
+
+Interactive Campus Map: Explore detailed floor plans and building layouts.
+
+Search Functionality: Easily find specific rooms, departments, or amenities.
+
+Offline Access: Access maps and directions without an internet connection.
+
+User-Friendly Interface: Designed for seamless interaction and ease of use.
+
+Privacy-Focused Design:
+
+No Account Required: Use the app without creating an account.
+
+No Advertising: Enjoy an ad-free experience.
+
+Camera Usage: The camera is used solely for AR features and does not store or transmit data.
+
+Location Access: Location data is used only if you enable navigation features and is not stored or shared.
+
+Privacy Policy:
+For detailed information on how we handle your data, please refer to our Privacy Policy
+.
